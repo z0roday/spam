@@ -38,3 +38,39 @@ im programmer full stack web and and a penetration tester
 # Description
 
 Run the file in the terminal and use it!
+
+# link
+<hr>
+<br>
+#  for termux
+<br>
+<br>
+apt update
+<br>
+apt upgrade
+<br>
+pkg install python3
+<br>
+pip install requests
+<br>
+git clone https://github.com/z0roday/Z0ROspam.git
+<br>
+python3 Zerospam.py
+<br>
+<hr>
+<br>
+#  for linux
+<br>
+<br>
+apt update
+<br>
+apt ubgrade
+<br>
+sudo get-apt install requests
+<br>
+pip install requests
+<br>
+git clone https://github.com/z0roday/Z0ROspam.git
+<br>
+python3 Zerospam.py
+<br>
