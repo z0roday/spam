@@ -16,3 +16,8 @@ myemail: aslanihamid646@gmail.com
 
 
 im programmer full stack web and and a penetration tester
+
+
+# Description
+
+Run the file in the terminal and use it!
