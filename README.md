@@ -2,6 +2,7 @@
 
 # Z0RODAY SMS Bomber +98
 
+<link rel="icon" href="https://www.uhdpaper.com/2020/09/watch-dogs-legion-zero-day-4k-8122.html?m=1" type="image/x-icon">
 sms-bomber 30 API
 
 
@@ -21,7 +22,6 @@ im programmer full stack web and and a penetration tester
 
   <p align="center">
 
-<img src="https://www.uhdpaper.com/2020/09/watch-dogs-legion-zero-day-4k-8122.html?m=1" alt="img" width="300" height="270"/>
 
 </p>
 
