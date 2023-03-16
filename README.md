@@ -38,7 +38,7 @@ Run the file in the terminal and use it!
 # link
 <hr>
 <br>
-#  for termux
+<b>for termux</b>
 <br>
 <br>
 apt update
@@ -56,7 +56,7 @@ cd spam
 python sms-bomber
 <hr>
 <br>
-# for linux
+<b>for linux</b>
 <br>
 <br>
 apt update
