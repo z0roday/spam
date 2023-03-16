@@ -55,8 +55,9 @@ pip install requests
 <br>
 git clone https://github.com/z0roday/Z0ROspam.git
 <br>
-python3 Zerospam.py
+cd Z0ROspam
 <br>
+python sms-bomber
 <hr>
 <br>
 #  for linux
@@ -72,5 +73,6 @@ pip install requests
 <br>
 git clone https://github.com/z0roday/Z0ROspam.git
 <br>
-python3 Zerospam.py
+cd Z0ROpam
 <br>
+python sms-bomber
