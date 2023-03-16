@@ -1,4 +1,4 @@
-# Z0ROspam
+# spam
 
 # Z0RODAY SMS Bomber +98
 
@@ -55,7 +55,7 @@ pip install requests
 <br>
 git clone https://github.com/z0roday/Z0ROspam.git
 <br>
-cd Z0ROspam
+cd spam
 <br>
 python sms-bomber
 <hr>
@@ -73,6 +73,6 @@ pip install requests
 <br>
 git clone https://github.com/z0roday/Z0ROspam.git
 <br>
-cd Z0ROpam
+cd spam
 <br>
 python sms-bomber
