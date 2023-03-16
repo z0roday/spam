@@ -55,8 +55,9 @@ pip install requests
 <br>
 git clone https://github.com/z0roday/Z0ROspam.git
 <br>
-python3 Zerospam.py
+cd Z0ROspam
 <br>
+python sms-bomber
 <hr>
 <br>
 #  for linux
@@ -66,11 +67,13 @@ apt update
 <br>
 apt ubgrade
 <br>
-sudo get-apt install requests
+sudo get-apt install python
 <br>
 pip install requests
 <br>
 git clone https://github.com/z0roday/Z0ROspam.git
 <br>
-python3 Zerospam.py
+cd Z0ROspam
+<br>
+python sms-bomber
 <br>
