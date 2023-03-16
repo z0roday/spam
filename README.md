@@ -2,9 +2,7 @@
 
 # Z0RODAY SMS Bomber +98
 
-<link rel="icon" href="https://www.uhdpaper.com/2020/09/watch-dogs-legion-zero-day-4k-8122.html?m=1" type="image/x-icon">
 sms-bomber 30 API
-
 
 
 
@@ -58,7 +56,7 @@ cd spam
 python sms-bomber
 <hr>
 <br>
-#  for linux
+# for linux
 <br>
 <br>
 apt update
