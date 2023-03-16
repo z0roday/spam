@@ -53,7 +53,7 @@ pkg install python3
 <br>
 pip install requests
 <br>
-git clone https://github.com/z0roday/Z0ROspam.git
+git clone https://github.com/z0roday/spam.git
 <br>
 cd spam
 <br>
@@ -71,7 +71,7 @@ sudo get-apt install requests
 <br>
 pip install requests
 <br>
-git clone https://github.com/z0roday/Z0ROspam.git
+git clone https://github.com/z0roday/spam.git
 <br>
 cd spam
 <br>
