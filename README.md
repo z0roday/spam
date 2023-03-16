@@ -27,8 +27,6 @@ im programmer full stack web and and a penetration tester
 
   <p align="center">
 
-<a href="#"><img title="Zeroday" src="https://www.google.com/search?q=zero+day+wallpaper&client=firefox-b-m&tbm=isch&sxsrf=ALiCzsYMLxlGOMikSUV_C1lJFsATPwCmkQ:1672147457186&source=lnms&sa=X&ved=0ahUKEwjpgcrZ8pn8AhUJjaQKHc2PAUgQ_AUIBigB&biw=384&bih=725#"></a>
-
 </p>
 
 </div>
