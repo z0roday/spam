@@ -8,9 +8,7 @@ sms-bomber 30 API
 
 hello bro Thank you for using my tool
 
-myname: Z0roday
 
-myemail: aslanihamid646@gmail.com 
 
 
 
