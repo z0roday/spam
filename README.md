@@ -1,10 +1,8 @@
-# spam
+# spam update
 
-# Z0RODAY SMS Bomber +98
+# Z0RODAY SMS Bombeber
 
-sms-bomber 30 API
-
-
+sms & call 
 
 hello bro Thank you for using my tool
 
