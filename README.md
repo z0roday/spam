@@ -51,7 +51,7 @@ git clone https://github.com/z0roday/spam.git
 <br>
 cd spam
 <br>
-python sms-bomber
+python spamer.py
 <hr>
 <br>
 <b>for linux</b>
@@ -69,4 +69,4 @@ git clone https://github.com/z0roday/spam.git
 <br>
 cd spam
 <br>
-python sms-bomber
+python spamer.py
