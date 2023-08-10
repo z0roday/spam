@@ -7,6 +7,48 @@ from time import sleep
 from inspect import getmembers, isfunction 
 from os import system, name
 import random
+import datetime
+import sys
+
+now = datetime.datetime.today()
+
+now = datetime.datetime.today()
+mm = str(now.month)
+dd = str(now.day)
+yyyy = str(now.year)
+hour = str(now.hour)
+mi = str(now.minute)
+ss = str(now.second)
+t=(mm + "/" + dd + "/" + yyyy + " " + hour + ":" + mi + ":" + ss)
+
+
+hours = (now.hour)
+x = datetime.datetime.now()
+g= datetime.datetime(2023, 8, 12, 00, 00 ,0)
+if (x.strftime("%x"))>(g.strftime("%x")):
+ print('\n\n')
+ print("     "+'\n\n زمان استفاده از فایل تموم شده\n\n    ')
+ print('\n\n')
+ print(x)
+ 
+ sys.exit(0)
+ 
+
+if (x.strftime("%x"))==(g.strftime("%x")):
+   print('')
+   if(x.strftime("%X"))>(g.strftime("%X")):
+    print('\n\n')
+    print("     "+'\n\n زمان استفاده از فایل تموم شده\n\n    ')
+    print('\n\n')
+    print(x)
+    
+    sys.exit(0)
+   else:
+    print('')  
+else:
+    print('')
+print('')
+
 W='\033[0m'
 colors=['\033[1;31m','\033[1;32m','\033[1;33m','\033[1;34m','\033[1;35m','\033[1;36m']
 
