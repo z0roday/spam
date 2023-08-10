@@ -1,5 +1,4 @@
 # spam update
-
 # Z0RODAY SMS Bombeber
 
 sms & call 
@@ -31,40 +30,3 @@ im programmer full stack web and and a penetration tester
 
 Run the file in the terminal and use it!
 
-# link
-<hr>
-<br>
-<b>for termux</b>
-<br>
-<br>
-apt update
-<br>
-apt upgrade
-<br>
-pkg install python3
-<br>
-pip install requests
-<br>
-git clone https://github.com/z0roday/spam.git
-<br>
-cd spam
-<br>
-python spamer.py
-<hr>
-<br>
-<b>for linux</b>
-<br>
-<br>
-apt update
-<br>
-apt ubgrade
-<br>
-sudo get-apt install requests
-<br>
-pip install requests
-<br>
-git clone https://github.com/z0roday/spam.git
-<br>
-cd spam
-<br>
-python spamer.py
