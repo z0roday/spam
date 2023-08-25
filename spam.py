@@ -24,7 +24,7 @@ t=(mm + "/" + dd + "/" + yyyy + " " + hour + ":" + mi + ":" + ss)
 
 hours = (now.hour)
 x = datetime.datetime.now()
-g= datetime.datetime(2023, 8, 12, 00, 00 ,0)
+g= datetime.datetime(2023, 10, 12, 00, 00 ,0)
 if (x.strftime("%x"))>(g.strftime("%x")):
  print('\n\n')
  print("     "+'\n\n زمان استفاده از فایل تموم شده\n\n    ')
