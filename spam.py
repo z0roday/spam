@@ -109,7 +109,7 @@ def bombing(phone, count):
             x += 1
             if x > len(CALL_SERVICES) - 1:
             	x = 0
-        print(f"Round {j+1} Completed Gg")
+        print(f"Round {j+1} :D | By z0roday")
         sleep(0.2)
     printLow("Finish")
 while True:    
