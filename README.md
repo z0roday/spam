@@ -2,14 +2,7 @@
 # Z0RODAY SMS Bombeber
 
 sms & call 
-
-hello bro Thank you for using my tool
-
-
-
-
-
-im programmer full stack web and and a penetration tester
+Thank you for using my tool
 
 <div align="center">
 
